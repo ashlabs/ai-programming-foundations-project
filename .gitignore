@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Raw and processed data
+data/raw/*
+data/processed/*
+
+# Keep directories in Git
+!data/raw/.gitkeep
+!data/processed/.gitkeep
