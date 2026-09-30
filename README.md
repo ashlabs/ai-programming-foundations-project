@@ -46,8 +46,6 @@ ai-programming-foundations-project/
 ├── scripts/
 │   ├── download_bts_data.py    # Downloads monthly BTS source archives
 │   └── prepare_bts_data.py     # Converts raw archives to focused Parquet files
-├── src/                        # Supporting project code
-├── tests/                      # Project tests
 ├── data_workflow.ipynb         # Main reproducible analysis notebook
 ├── requirements.txt            # Python dependencies
 └── README.md                   # Project overview and run instructions
