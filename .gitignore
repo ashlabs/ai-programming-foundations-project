@@ -25,3 +25,6 @@ data/processed/*
 # Keep directories in Git
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+# Local project tools
+.obsidian/
+.venv-clean/
